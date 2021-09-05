@@ -1,5 +1,5 @@
-### Hi there 👋, Kaushik
-#### Web Developer | Student
+# Hi there 👋,I'm Kaushik
+### Web Developer | Student
 I'm so much passionate about Web development and learning new technoly in it.. I'm also like to contribute to many open source project. Some technology I really love to work with React , Python+ Django, Node js..
 
 ## Skills and Experience 
