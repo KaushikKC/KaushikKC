@@ -1,4 +1,7 @@
 # Hi there 👋,I'm Kaushik
+
+![Banner](https://user-images.githubusercontent.com/86820401/133101514-6b34e9c0-f59a-4427-805b-6d07089c1d51.jpg)
+
 ### Web Developer | Student
 I'm so much passionate about Web development and learning new technology in it.. I'm also like to contribute to many open source project. Some technology I really love to work with React , Python+ Django, Node js..
 
