@@ -2,14 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/86820401/133101514-6b34e9c0-f59a-4427-805b-6d07089c1d51.jpg)
 
-### Web Developer | Student
-I'm so much passionate about Web development and learning new technology in it.. I'm also like to contribute to many open source project. Some technology I really love to work with React , Python+ Django, Node js..
-
-## Skills and Experience 
-* ⚛ Python 
-* 💻 HTML,CSS,JS 
-* 📱 React
-
+I'm the person of 17 years old with the knowledge of full-stack javascript developer using reactJS, NextJS for the frontend and Nodejs and express for the back-end but I mostly rely on front-end which is my favourite part. I'm here to contribute to many projects to enhance my skill as well as network.If you find my work is great you could also connect with me. I'm ready to collaborate with other developers to make a great stuffs.
 
 
 <p align="center">
