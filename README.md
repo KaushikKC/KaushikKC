@@ -7,9 +7,9 @@ My contributions reflect a commitment to creating seamless and user-friendly web
 
 My GitHub activity reflects his curiosity and exploration of emerging trends, including blockchain technology and AI integration. My repositories demonstrate a desire to push the boundaries of technology, constantly seeking fresh and efficient solutions to challenges.
 
-With a strong focus on integrity, Kaushik ensures that my projects prioritize data privacy and security, implementing best practices and adhering to ethical standards.
+With a strong focus on integrity, I ensures that my projects prioritize data privacy and security, implementing best practices and adhering to ethical standards.
 
-Collaboration and open-source spirit are fundamental to Kaushik's GitHub journey. I actively engages with the developer community, fostering an environment of knowledge sharing and mutual growth.
+Collaboration and open-source spirit are fundamental to my GitHub journey. I actively engages with the developer community, fostering an environment of knowledge sharing and mutual growth.
 
 
 
