@@ -41,6 +41,7 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 - **[Kaushik Chain](https://github.com/KaushikKC/Orbit-Avail-Kaushik-Chain)** - Arbitrum Nitro Rollup Contracts - Orbit Avail Kaushik Chain
 - **[Tarffic Run](https://github.com/KaushikKC/traffic_run)** - A Traffic run Game using the Stackr Labs MRU.
 - **[Scroll Grants](https://github.com/KaushikKC/scrollGrants)** - A Community-Driven Funding Platform.
+- **[c6credits](https://github.com/vmmuthu31/C6Credits)** - Reduce Your Carbon Footprint with Seamless Tokenized Credits.
 - **[BlockEstate](https://github.com/KaushikKC/BlockEstate_Frontend)** - Decentralized Real estate Platform.
 - **[Bounty Bridge](https://github.com/MadhuVarshaP/BountyBridge-frontend)** - Task & Earn: Transforming Local Aid with Decentralization.
 - **[Repeat app](https://github.com/KaushikKC/Repeat_App)** - Stake and Bet on Your Habbits
