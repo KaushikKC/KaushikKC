@@ -15,6 +15,7 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 
 ## My Open Source Projects
 
+- **[VeilPay](https://github.com/KaushikKC/VeilPay)** - Verified Payroll using ZK CREDENTIALS
 - **[Vestige](https://github.com/KaushikKC/vestige)** - Privacy-preserving token launchpad on Solana
 - **[Relay](https://github.com/KaushikKC/relay)** - One-click cross-chain bridge to HyperEVM and Hyperliquid powered by LI.FI
 - **[Pact](https://github.com/KaushikKC/Pact)** - DeFi Primitive for Stake-Backed Position Commitments.
