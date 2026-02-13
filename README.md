@@ -15,6 +15,7 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 
 ## My Open Source Projects
 
+- **[Silensis](https://github.com/KaushikKC/Silensis)** - A perpetual futures DEX on Solana
 - **[VeilPay](https://github.com/KaushikKC/VeilPay)** - Verified Payroll using ZK CREDENTIALS
 - **[Vestige](https://github.com/KaushikKC/vestige)** - Privacy-preserving token launchpad on Solana
 - **[Relay](https://github.com/KaushikKC/relay)** - One-click cross-chain bridge to HyperEVM and Hyperliquid powered by LI.FI
