@@ -15,6 +15,7 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 
 ## My Open Source Projects
 
+- **[Conclave](https://github.com/KaushikKC/Conclave)** - DAO governance + private voting app on Solana
 - **[Silensis](https://github.com/KaushikKC/Silensis)** - A perpetual futures DEX on Solana
 - **[VeilPay](https://github.com/KaushikKC/VeilPay)** - Verified Payroll using ZK CREDENTIALS
 - **[Vestige](https://github.com/KaushikKC/vestige)** - Privacy-preserving token launchpad on Solana
