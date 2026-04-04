@@ -15,6 +15,8 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 
 ## My Open Source Projects
 
+- **[Testament](https://github.com/KaushikKC/testament)** - Solana inheritance protocol where a heartbeat Blink keeps your vault sealed.
+- **[Foretrace](https://github.com/KaushikKC/Foretrace)** - Foretrace turns your life history into structured foresight
 - **[Zerra](https://github.com/KaushikKC/Zerra)** - A one-click USDC commerce platform built on Arc Network.
 - **[Conclave](https://github.com/KaushikKC/Conclave)** - DAO governance + private voting app on Solana
 - **[Silensis](https://github.com/KaushikKC/Silensis)** - A perpetual futures DEX on Solana
