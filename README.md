@@ -1,11 +1,6 @@
 # Hey, I'm Kaushik
 
-> Deep in build mode — shipping on-chain products, infra, and developer tools across Solana & EVM. Turning ideas into mainnet code at hacker speed.
-
-I’m a full stack Web3 developer who loves building, experimenting, and sharing what I learn along the way. My repos mostly revolve around React, Next.js, Solidity, Rust, and TypeScript, with a growing focus on decentralized identity, ZK, and modular infrastructure.
-
-Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing explainers, and helping other builders get started.
-
+Systems engineer building at the intersection of AI infrastructure and decentralized computation from cryptographically verifiable eval frameworks and voice-agent observability tooling to live mainnet protocols on Solana & EVM. I like the hard, unglamorous parts: latency, verification, reproducibility, and making distributed systems tell the truth about themselves.
 
 ## Connect with Me
 ### To collaborate with me you can connect with me over the following platforms
