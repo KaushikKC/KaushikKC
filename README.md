@@ -15,6 +15,9 @@ Beyond code, I’m active in the Web3 ecosystem hosting dev events, writing expl
 
 ## My Open Source Projects
 
+- **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
+- **[VoxOps](https://github.com/KaushikKC/VoxOps)** - Observability & live-operations platform for voice agents that traces end-to-end latency.
+- **[Pinaivu](https://github.com/KaushikKC/Pinaivu)** - Pinaivu is a p2p network where GPU nodes compete to serve AI inference requests.
 - **[Testament](https://github.com/KaushikKC/testament)** - Solana inheritance protocol where a heartbeat Blink keeps your vault sealed.
 - **[Foretrace](https://github.com/KaushikKC/Foretrace)** - Foretrace turns your life history into structured foresight
 - **[Zerra](https://github.com/KaushikKC/Zerra)** - A one-click USDC commerce platform built on Arc Network.
