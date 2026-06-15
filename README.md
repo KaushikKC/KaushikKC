@@ -1,6 +1,7 @@
 # Hey, I'm Kaushik
 
-Systems engineer building at the intersection of AI infrastructure and decentralized computation from cryptographically verifiable eval frameworks and voice-agent observability tooling to live mainnet protocols on Solana & EVM. I like the hard, unglamorous parts: latency, verification, reproducibility, and making distributed systems tell the truth about themselves.
+Engineer building at the intersection of AI infrastructure, distributed systems, and decentralized protocols whatever the hard problem is, I like building the thing underneath it.
+I work across the full stack: from training pipelines and observability tooling to P2P networks, smart contracts, and cryptographic verification systems.
 
 ## Connect with Me
 ### To collaborate with me you can connect with me over the following platforms
