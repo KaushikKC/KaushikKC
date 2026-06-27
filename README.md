@@ -11,6 +11,7 @@ I work across the full stack: from training pipelines and observability tooling 
 
 ## My Open Source Projects
 
+- **[Poppy](https://github.com/KaushikKC/Poppy)** - A fully local, offline AI voice companion with a full-page video avatar.
 - **[Nano-LLM](https://github.com/KaushikKC/nano-llm-lab)** - Decoder-only transformer built from scratch in pure PyTorch.
 - **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
 - **[VoxOps](https://github.com/KaushikKC/VoxOps)** - Observability & live-operations platform for voice agents that traces end-to-end latency.
