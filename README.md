@@ -11,6 +11,7 @@ I work across the full stack: from training pipelines and observability tooling 
 
 ## My Open Source Projects
 
+- **[AgentAudit](https://github.com/KaushikKC/AgentAudit)** - Tamper-evident, cryptographically verifiable audit trails for AI agents.
 - **[Poppy](https://github.com/KaushikKC/Poppy)** - A fully local, offline AI voice companion with a full-page video avatar.
 - **[Nano-LLM](https://github.com/KaushikKC/nano-llm-lab)** - Decoder-only transformer built from scratch in pure PyTorch.
 - **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
