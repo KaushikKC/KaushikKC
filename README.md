@@ -15,6 +15,7 @@ I work across the full stack: from training pipelines and observability tooling 
 
 ### AI Safety & Verifiability
 
+- **[Weak Monitor Lab](https://github.com/KaushikKC/weak-monitor-lab)** - Reproducible experiment testing whether a weak local LLM monitor can detect reward hacking in a tool-using agent's trajectories.
 - **[Silent Guard](https://github.com/KaushikKC/silent-guard)** - Agent-security experiment measuring what an agent attempts vs. what it actually does under enforced permissions and prompt injection.
 - **[JevScope](https://github.com/KaushikKC/JevScope)** - Semantic observability and robustness evaluation for AI agents: is the agent on-task, progressing, stuck, and are those judgments stable?
 - **[AgentAudit](https://github.com/KaushikKC/AgentAudit)** - Tamper-evident, cryptographically verifiable audit trails for AI agents.
