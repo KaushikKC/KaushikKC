@@ -11,52 +11,82 @@ I work across the full stack: from training pipelines and observability tooling 
 
 ## My Open Source Projects
 
-- **[Mnem0syne](https://github.com/KaushikKC/Mnem0syne)** - A local-first memory layer for AI agents that forgets on purpose.
+**Jump to:** [AI Safety & Verifiability](#ai-safety--verifiability) · [AI & ML](#ai--ml) · [AI x Web3](#ai-x-web3) · [Blockchain & Web3](#blockchain--web3)
+
+### AI Safety & Verifiability
+
 - **[AgentAudit](https://github.com/KaushikKC/AgentAudit)** - Tamper-evident, cryptographically verifiable audit trails for AI agents.
+- **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
+
+### AI & ML
+
+- **[Mnem0syne](https://github.com/KaushikKC/Mnem0syne)** - A local-first memory layer for AI agents that forgets on purpose.
 - **[Poppy](https://github.com/KaushikKC/Poppy)** - A fully local, offline AI voice companion with a full-page video avatar.
 - **[Nano-LLM](https://github.com/KaushikKC/nano-llm-lab)** - Decoder-only transformer built from scratch in pure PyTorch.
-- **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
 - **[VoxOps](https://github.com/KaushikKC/VoxOps)** - Observability & live-operations platform for voice agents that traces end-to-end latency.
-- **[Pinaivu](https://github.com/KaushikKC/Pinaivu)** - Pinaivu is a p2p network where GPU nodes compete to serve AI inference requests.
-- **[Testament](https://github.com/KaushikKC/testament)** - Solana inheritance protocol where a heartbeat Blink keeps your vault sealed.
-- **[Foretrace](https://github.com/KaushikKC/Foretrace)** - Foretrace turns your life history into structured foresight
+- **[Foretrace](https://github.com/KaushikKC/Foretrace)** - Foretrace turns your life history into structured foresight.
+
+### AI x Web3
+
+- **[Pinaivu](https://github.com/KaushikKC/Pinaivu)** - A P2P network where GPU nodes compete to serve AI inference requests.
+- **[Noro](https://github.com/KaushikKC/noro)** - Decentralized Prediction Markets with AI-Powered Analysis.
+- **[TaskHive](https://github.com/KaushikKC/TaskHive.ai)** - Autonomous Task Executor with AI-Powered Onchain Identity and Shared Graph.
+- **[Cultura](https://github.com/KaushikKC/cultura)** - Leverages AI to curate trending cultural topics.
+
+### Blockchain & Web3
+
+#### DeFi & Payments
+
 - **[Zerra](https://github.com/KaushikKC/Zerra)** - A one-click USDC commerce platform built on Arc Network.
-- **[Conclave](https://github.com/KaushikKC/Conclave)** - DAO governance + private voting app on Solana
-- **[Silensis](https://github.com/KaushikKC/Silensis)** - A perpetual futures DEX on Solana
-- **[VeilPay](https://github.com/KaushikKC/VeilPay)** - Verified Payroll using ZK CREDENTIALS
-- **[Vestige](https://github.com/KaushikKC/vestige)** - Privacy-preserving token launchpad on Solana
-- **[Relay](https://github.com/KaushikKC/relay)** - One-click cross-chain bridge to HyperEVM and Hyperliquid powered by LI.FI
+- **[Silensis](https://github.com/KaushikKC/Silensis)** - A perpetual futures DEX on Solana.
+- **[Relay](https://github.com/KaushikKC/relay)** - One-click cross-chain bridge to HyperEVM and Hyperliquid powered by LI.FI.
 - **[Pact](https://github.com/KaushikKC/Pact)** - DeFi Primitive for Stake-Backed Position Commitments.
-- **[Vyper Guides](https://github.com/KaushikKC/vyper-tutorials)** - Starter guide for Vyper smart contracts
 - **[Lynq](https://github.com/KaushikKC/lynq.)** - Programmable Treasury & Lending Platform.
-- **[Drop](https://github.com/KaushikKC/Drop)** - Decentralized IP Asset Monetization Platform
-- **[Noro](https://github.com/KaushikKC/noro)** - Decentralized Prediction Markets with AI-Powered Analysis
-- **[Flux](https://github.com/KaushikKC/flux)** - A privacy-preserving cross-chain swap between Zcash and any asset on the Aztec network.
-- **[Stream402](https://github.com/KaushikKC/Stream402)** - A platform for monetizing digital content using Solana payments via HTTP 402 Payment protocol.
-- **[Ledger](https://github.com/MadhuVarshaP/Ledger)** - Immutable Contract Management Platform
-- **[Ownly](https://github.com/KaushikKC/Ownly)** - IP Asset Management Platform
-- **[DeCT](https://github.com/KaushikKC/DeCT)** - Monetize your health data
+- **[Stream402](https://github.com/KaushikKC/Stream402)** - Monetize digital content using Solana payments via the HTTP 402 Payment protocol.
+- **[ReBTC](https://github.com/KaushikKC/ReBTC)** - The Next-Gen BTC Yield & Liquidity Protocol.
+- **[Testament](https://github.com/KaushikKC/testament)** - Solana inheritance protocol where a heartbeat Blink keeps your vault sealed.
 - **[Micro Gift](https://github.com/KaushikKC/Micro-Gift)** - Send surprise crypto gifts that bring smiles across the digital world.
-- **[CoPass](https://github.com/KaushikKC/CoPass-expo)** - A Shared Travel planing platform.
-- **[Proof of Witness](https://github.com/MadhuVarshaP/PoW)** - A narrative-first zk builder community
-- **[Chain Bento](https://github.com/KaushikKC/ChainBento)** - Your Web3 Developer Identity Onchain.
-- **[Git Star AVS](https://github.com/KaushikKC/git-star-fetch-avs)** - GitHub Star Checker AVS using the Othentic Stack.
-- **[Noot Militia](https://github.com/KaushikKC/Noot-Militia)** - A Web3-powered 1v1 multiplayer shooter game inspired by MiniMilitia.
-- **[ReBTC](https://github.com/KaushikKC/ReBTC)** - The Next-Gen BTC Yield & Liquidity Protocol
-- **[WagerX](https://github.com/KaushikKC/wagerX)** - A Social Prediction Market for Friend Groups.
-- **[Cultura](https://github.com/KaushikKC/cultura)** - Cultura is an innovative platform that leverages AI to curate trending cultural topics.
-- **[Vivi](https://github.com/KaushikKC/Vivi)** - Decentralized Community Notes Platform with Voice and Bounty Features.
-- **[Tash hive](https://github.com/KaushikKC/TaskHive.ai)** - Autonomous Task Executor with AI-Powered Onchain Identity and Shared Graph.
-- **[Kaushik Chain](https://github.com/KaushikKC/Orbit-Avail-Kaushik-Chain)** - Arbitrum Nitro Rollup Contracts - Orbit Avail Kaushik Chain
-- **[Tarffic Run](https://github.com/KaushikKC/traffic_run)** - A Traffic run Game using the Stackr Labs MRU.
-- **[Scroll Grants](https://github.com/KaushikKC/scrollGrants)** - A Community-Driven Funding Platform.
-- **[c6credits](https://github.com/vmmuthu31/C6Credits)** - Reduce Your Carbon Footprint with Seamless Tokenized Credits.
-- **[BlockEstate](https://github.com/KaushikKC/BlockEstate_Frontend)** - Decentralized Real estate Platform.
-- **[Bounty Bridge](https://github.com/MadhuVarshaP/BountyBridge-frontend)** - Task & Earn: Transforming Local Aid with Decentralization.
-- **[Repeat app](https://github.com/KaushikKC/Repeat_App)** - Stake and Bet on Your Habbits
 - **[Regen](https://github.com/KaushikKC/Regen-frontend)** - A Decentralized Loan Management platform for Farmers.
+- **[c6credits](https://github.com/vmmuthu31/C6Credits)** - Reduce Your Carbon Footprint with Seamless Tokenized Credits.
+
+#### Privacy & ZK
+
+- **[VeilPay](https://github.com/KaushikKC/VeilPay)** - Verified Payroll using ZK Credentials.
+- **[Vestige](https://github.com/KaushikKC/vestige)** - Privacy-preserving token launchpad on Solana.
+- **[Flux](https://github.com/KaushikKC/flux)** - A privacy-preserving cross-chain swap between Zcash and any asset on the Aztec network.
+- **[Conclave](https://github.com/KaushikKC/Conclave)** - DAO governance + private voting app on Solana.
+- **[Proof of Witness](https://github.com/MadhuVarshaP/PoW)** - A narrative-first zk builder community.
+
+#### Infrastructure & Dev Tooling
+
+- **[Kaushik Chain](https://github.com/KaushikKC/Orbit-Avail-Kaushik-Chain)** - Arbitrum Nitro Rollup Contracts - Orbit Avail Kaushik Chain.
+- **[Git Star AVS](https://github.com/KaushikKC/git-star-fetch-avs)** - GitHub Star Checker AVS using the Othentic Stack.
+- **[Chain Bento](https://github.com/KaushikKC/ChainBento)** - Your Web3 Developer Identity Onchain.
+- **[Vyper Guides](https://github.com/KaushikKC/vyper-tutorials)** - Starter guide for Vyper smart contracts.
+
+#### IP, Data & Ownership
+
+- **[Drop](https://github.com/KaushikKC/Drop)** - Decentralized IP Asset Monetization Platform.
+- **[Ownly](https://github.com/KaushikKC/Ownly)** - IP Asset Management Platform.
+- **[DeCT](https://github.com/KaushikKC/DeCT)** - Monetize your health data.
+- **[Ledger](https://github.com/MadhuVarshaP/Ledger)** - Immutable Contract Management Platform.
+- **[BlockEstate](https://github.com/KaushikKC/BlockEstate_Frontend)** - Decentralized Real Estate Platform.
+
+#### Community & Social
+
+- **[Scroll Grants](https://github.com/KaushikKC/scrollGrants)** - A Community-Driven Funding Platform.
+- **[Bounty Bridge](https://github.com/MadhuVarshaP/BountyBridge-frontend)** - Task & Earn: Transforming Local Aid with Decentralization.
+- **[Vivi](https://github.com/KaushikKC/Vivi)** - Decentralized Community Notes Platform with Voice and Bounty Features.
+- **[CoPass](https://github.com/KaushikKC/CoPass-expo)** - A Shared Travel Planning platform.
 - **[Milestone](https://github.com/KaushikKC/Miestone_Frontend)** - Review Proof System.
+
+#### Prediction Markets & Games
+
+- **[WagerX](https://github.com/KaushikKC/wagerX)** - A Social Prediction Market for Friend Groups.
+- **[Repeat App](https://github.com/KaushikKC/Repeat_App)** - Stake and Bet on Your Habits.
 - **[300s](http://github.com/KaushikKC/300s)** - Betting Platform.
+- **[Noot Militia](https://github.com/KaushikKC/Noot-Militia)** - A Web3-powered 1v1 multiplayer shooter game inspired by MiniMilitia.
+- **[Traffic Run](https://github.com/KaushikKC/traffic_run)** - A Traffic Run Game using the Stackr Labs MRU.
 
 ## GitHub Activity
 
