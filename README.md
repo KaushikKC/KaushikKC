@@ -15,11 +15,15 @@ I work across the full stack: from training pipelines and observability tooling 
 
 ### AI Safety & Verifiability
 
+- **[Silent Guard](https://github.com/KaushikKC/silent-guard)** - Agent-security experiment measuring what an agent attempts vs. what it actually does under enforced permissions and prompt injection.
+- **[JevScope](https://github.com/KaushikKC/JevScope)** - Semantic observability and robustness evaluation for AI agents: is the agent on-task, progressing, stuck, and are those judgments stable?
 - **[AgentAudit](https://github.com/KaushikKC/AgentAudit)** - Tamper-evident, cryptographically verifiable audit trails for AI agents.
 - **[Verievals](https://github.com/KaushikKC/verievals)** - Verifiable AI benchmark runner with signed, Merkle-anchored evaluation records.
 
 ### AI & ML
 
+- **[Operation Shade](https://github.com/KaushikKC/OperationShade)** - Inbox triage for creators using typed AI decisions, not generated text; nothing sends itself.
+- **[Greenlight](https://github.com/KaushikKC/GreenLight)** - Pre-flight check for creator ads: evidence-backed readiness reports, a contract Rights Wallet, and grounded brand pitches.
 - **[Mnem0syne](https://github.com/KaushikKC/Mnem0syne)** - A local-first memory layer for AI agents that forgets on purpose.
 - **[Poppy](https://github.com/KaushikKC/Poppy)** - A fully local, offline AI voice companion with a full-page video avatar.
 - **[Nano-LLM](https://github.com/KaushikKC/nano-llm-lab)** - Decoder-only transformer built from scratch in pure PyTorch.
